@@ -39,18 +39,18 @@
           <h5>CHĂM SÓC KHÁCH HÀNG</h5>
           <ul class="list-unstyled">
             <li><a href="#">Trung Tâm Trợ Giúp</a></li>
-            <li><a href="#">SHOP HEADPHONE Blog</a></li>
-            <li><a href="#">Shopee Mall</a></li>
+            <li><a href="#">Shop HeadPhone Blog</a></li>
+            <li><a href="#">Shop HeadPhone Mail</a></li>
             <li><a href="#">Hướng Dẫn Mua Hàng</a></li>
             <li><a href="#">Hướng Dẫn Bán Hàng</a></li>
           </ul>
         </div>
         <div class="col-sm-3">
-          <h5>VỀ SHOP HEADPHONE</h5>
+          <h5>VỀ Shop HeadPhone</h5>
           <ul class="list-unstyled">
-            <li><a href="#">Giới Thiệu Về Shope SHOP HEADPHONE Việt Nam</a></li>
+            <li><a href="#">Giới Thiệu Về Shop HeadPhone Việt Nam </a></li>
             <li><a href="#">Tuyển Dụng</a></li>
-            <li><a href="#">Điều Khoản SHOP HEADPHONE</a></li>
+            <li><a href="#">Điều Khoản Shop HeadPhone</a></li>
             <li><a href="#">Chính Sách Bảo Mật</a></li>
             <li><a href="#">Chính Hãng</a></li>
           </ul>
@@ -65,7 +65,7 @@
           </div>
         </div>
         <div class="col-sm-3">
-          <h5>TẢI ỨNG DỤNG HEADPHONE</h5>
+          <h5>TẢI ỨNG DỤNG SHOP HEADPHONE</h5>
           <div>
             <a href="#"><img src="https://via.placeholder.com/150x50" alt="Google Play"></a>
             <a href="#"><img src="https://via.placeholder.com/150x50" alt="App Store"></a>
