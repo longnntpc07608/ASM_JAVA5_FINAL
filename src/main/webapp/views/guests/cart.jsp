@@ -16,18 +16,18 @@
 			<mark><b>Shopping Cart</b></mark><a href="/cart/checkout">Checkout Details</a>
 		</small>
 	</h2>
-	<div class="row">
+	<div class="row" style="margin-top: 25px;">
 		<div class="col-sm-8">
 			<div class="table-responsive">
 				<table class="table table-striped">
 					<thead class="row">
-						<tr>
+						<!-- <tr>
 							<th class="col-sm-5 text-center">Sản Phẩm</th>
 							<th class="col-sm-2 text-center">Giá</th>
 							<th class="col-sm-2 text-center">Số Lượng</th>
 							<th class="col-sm-2 text-center">Tạm Tính</th>
 							<th class="col-sm-1 text-center">Acction</th>
-						</tr>
+						</tr> -->
 					</thead>
 					<tbody>
 						<c:forEach var="item" items="${ cart.getItems() }">

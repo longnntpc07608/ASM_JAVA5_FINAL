@@ -66,9 +66,12 @@
 								path="note" placeholder=""></form:textarea>
 						</div>
 						<div class="well">
-							<button style="margin-left: 1200px;" type="submit"
+						<div class="row m-2">
+						<button type="submit"
 								class="btn btn-success"
 								${ cartItems.isEmpty() ? "disabled" : "" }>Đặt Hàng</button>
+						</div>
+							
 						</div>
 					</form:form>
 				</div>

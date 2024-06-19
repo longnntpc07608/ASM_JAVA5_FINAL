@@ -81,7 +81,8 @@
 		<nav class="navbar navbar-expand-lg bg-body-tertiary"
 			data-bs-spy="affix" data-bs-offset-top="197">
 			<div class="container-fluid">
-				<a class="navbar-brand" href="/">HEADPHONE</a>
+				<img alt="" src="/image/logomenu.jpg" style="width: 70px; height: 70px;">
+				<a class="navbar-brand" href="/" style="font:oblique;">HEADPHONE</a>
 				<button class="navbar-toggler" type="button"
 					data-bs-toggle="collapse" data-bs-target="#navbarNav"
 					aria-controls="navbarNav" aria-expanded="false"
