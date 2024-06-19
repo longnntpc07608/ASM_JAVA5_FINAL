@@ -55,11 +55,11 @@
 						class="d-block w-100" alt="...">
 				</div>
 				<div class="carousel-item">
-					<img src="/image/tainghe02.jpg" style="width: 100%; height: 550px;"
+					<img src="/image/banner1.webp" style="width: 100%; height: 550px;"
 						d-block w-100" alt="...">
 				</div>
 				<div class="carousel-item">
-					<img src="/image/tainghe02.jpg" style="width: 100%; height: 550px;"
+					<img src="/image/banner2.jpg" style="width: 100%; height: 550px;"
 						d-block w-100" alt="...">
 				</div>
 			</div>
@@ -128,6 +128,7 @@
 									<li><a class="dropdown-item"
 										href="/myAcc/myProfile/${ User.getUsername() }">Quản Lý
 											Tài Khoản</a></li>
+									<li><a class="dropdown-item" href="/ResetPassword">Đổi mật khẩu</a></li>
 									<li><a class="dropdown-item" href="/login">Đăng Xuất</a></li>
 								</ul></li>
 						</c:if>
