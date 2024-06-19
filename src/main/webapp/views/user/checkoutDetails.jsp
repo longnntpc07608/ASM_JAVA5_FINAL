@@ -12,7 +12,7 @@
 
 <div class="container" style="margin-top: 25px;">
 	<h2 class="breadcrumb text-center">
-		<small><a href="/cart/view">Shopping Cart</a> <mark>
+		<small><a href="/cart/view" style="text-decoration: none;">Shopping Cart</a> <mark>
 				<b>Checkout Details</b>
 			</mark> </small>
 	</h2>

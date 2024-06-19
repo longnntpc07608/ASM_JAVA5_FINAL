@@ -13,7 +13,8 @@
 	<h2 class="breadcrumb text-center">
 		<small> <mark>
 				<b>Shopping Cart</b>
-			</mark><a href="/cart/checkout">Checkout Details</a>
+			</mark>
+			<a href="/cart/checkout" style="text-decoration: none;"  >Checkout Details</a>
 		</small>
 	</h2>
 	<div class="row" style="margin-top: 25px;">
