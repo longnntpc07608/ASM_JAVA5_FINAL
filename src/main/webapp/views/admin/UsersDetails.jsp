@@ -13,7 +13,7 @@
                 <th>Tên đăng nhập</th>
                 <th>Họ và tên</th>
                 <th>Email</th>
-                <th>Đã kích hoạt</th>
+                <th>Trạng thái</th>
                 <th>Vai trò</th>
                 <th colspan="2">Thao tác</th>
             </tr>

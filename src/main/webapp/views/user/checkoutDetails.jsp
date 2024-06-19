@@ -66,12 +66,10 @@
 								path="note" placeholder=""></form:textarea>
 						</div>
 						<div class="well">
-						<div class="row m-2">
-						<button type="submit"
-								class="btn btn-success"
-								${ cartItems.isEmpty() ? "disabled" : "" }>Đặt Hàng</button>
-						</div>
-							
+							<div class="row m-2">
+								<button type="submit" class="btn btn-success"
+									${ cartItems.isEmpty() ? "disabled" : "" }>Đặt Hàng</button>
+							</div>
 						</div>
 					</form:form>
 				</div>
@@ -128,4 +126,5 @@
 <script
 	src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
 	integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
-	crossorigin="anonymous"></script>s
+	crossorigin="anonymous"></script>
+s
