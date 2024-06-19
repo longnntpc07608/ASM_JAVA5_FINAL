@@ -27,7 +27,7 @@
 							<th>Giá</th>
 							<th>Số lượng</th>
 							<th>Tạm tính</th>
-							<th>Hành động</th>
+							<th>Thao tác</th>
 						</tr>
 					</thead>
 					<tbody>
