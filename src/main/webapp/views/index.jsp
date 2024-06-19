@@ -144,6 +144,6 @@
 
 	</div>
 	<jsp:include page="${ view }"></jsp:include>
-
+	<jsp:include page="footer.jsp" />
 	<br>
 	<br>
